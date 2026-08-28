@@ -15,3 +15,9 @@ I'm a Software Engineering student living in Madrid. I love exploring all there 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nvcoo/Nvcoo/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nvcoo/Nvcoo/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Nvcoo/Nvcoo/blob/output/github-snake.svg" />
+</picture>
